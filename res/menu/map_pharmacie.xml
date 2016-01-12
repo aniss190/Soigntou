@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="org.btssio.soigntou.MapPharmacie" >
+
+    <item
+        android:id="@+id/ic_home"
+        android:orderInCategory="100"
+        android:showAsAction="ifRoom"
+        android:icon="@drawable/home_icon"
+        android:title="Accueil"/>
+
+</menu>
